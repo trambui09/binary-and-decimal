@@ -19,6 +19,10 @@ def array_equals(array1, array2)
 end
 
 # --- END OF METHODS ---
+puts "Calling binary_to_decimal"
+binary_to_decimal
+
+puts "Calling array_equals"
 array1 = [10, 20, 30, 40, 50, 60]
 array2 = [10, 20, 30, 40, 50, 60]
 if !array_equals(array1, array2) # both equal case

@@ -6,3 +6,6 @@
 def binary_to_decimal
   raise NotImplementedError
 end
+
+num = binary_to_decimal()
+puts "The decimal number is #{num}. The original binary number should have been num.to_s(2)."

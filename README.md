@@ -10,7 +10,7 @@ Write a method named `binary_to_decimal` that receives as input parameter an arr
 
 You may however write your own versions of these methods
 
-**Due Date**  This assignment is due Monday August 26th
+**Due Date**  This assignment is due _____
 
 ## Optional
 

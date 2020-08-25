@@ -12,6 +12,8 @@ You may however write your own versions of these methods
 
 **Due Date**  This assignment is due **Tuesday Sept 15th 7pm**
 
+You can test your program by running `rake` from the command line and it will run your method against a set of automated tests.
+
 ## Optional
 
 Add a `decimal_to_binary` method which converts a decimal number received as a parameter into an array of binary digits.  Then write 3 tests for the method.

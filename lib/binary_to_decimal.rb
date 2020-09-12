@@ -18,7 +18,7 @@ end
 # method to turn decimal into an array of binary digits
 def decimal_to_binary(num)
   binary_array = []
-  until (num.to_f / 2) == 0
+  until num == 0
     # prepend will add the new value to the front, instead of the end
     binary_array.prepend(num % 2)
     num /= 2
